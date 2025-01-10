@@ -6,7 +6,17 @@
 </div>
 
 <h2 class="section-heading">🚀 Frontend</h2>
-<p> Como programador frontend, para crear la interfaz gráfica de usuario y la experiencia del usuario en aplicaciones web y móviles. Estos lenguajes me permiten estructurar contenido, dar estilo y diseño a las páginas web, y agregar interactividad a las mismas.</p>
+<p>Para crear la interfaz gráfica de usuario y la experiencia del usuario en aplicaciones web y móviles. Estos lenguajes me permiten estructurar contenido, dar estilo y diseño a las páginas web, y agregar interactividad a las mismas.</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+    
+
+<h2 class="section-heading">💻 Backend</h2>
+<p>Utilizo lenguajes de programación para crear la lógica del negocio y el acceso a datos en aplicaciones. Estos lenguajes y herramientas me permiten interactuar con bases de datos, autenticar usuarios, procesar solicitudes HTTP y realizar tareas complejas en el servidor.</p>
 <div align="center">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
