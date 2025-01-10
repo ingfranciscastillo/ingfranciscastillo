@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-    <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/-React-58c4dc?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     
 </div>
 
@@ -41,10 +41,10 @@
 <h2 class="section-heading">🔧 Herramientas</h2>
 <p>Estos frameworks me proporcionan estructuras predefinidas para el desarrollo, lo que reduce el tiempo y el esfuerzo necesario para crear una aplicación.</p>
 <div>
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
-    <img src="https://img.shields.io/badge/-Astro%20JS-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
-    <img src="" alt=""/>
-    <img src="" alt=""/>
-    <img src="" alt=""/>
+    <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Npm-000000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    <img src="https://img.shields.io/badge/-Pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
+    <img src="https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
+    <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
