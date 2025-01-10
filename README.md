@@ -8,7 +8,7 @@
 <h2 class="section-heading">🚀 Frontend</h2>
 <p> Como programador frontend, para crear la interfaz gráfica de usuario y la experiencia del usuario en aplicaciones web y móviles. Estos lenguajes me permiten estructurar contenido, dar estilo y diseño a las páginas web, y agregar interactividad a las mismas.</p>
 <div align="center">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
