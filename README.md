@@ -20,8 +20,8 @@
 <h2 class="section-heading">💻 Backend</h2>
 <p>Utilizo lenguajes de programación para crear la lógica del negocio y el acceso a datos en aplicaciones. Estos lenguajes y herramientas me permiten interactuar con bases de datos, autenticar usuarios, procesar solicitudes HTTP y realizar tareas complejas en el servidor.</p>
 <div>
-    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" alt="Node JS"/>
-    <img src="https://img.shields.io/badge/－Python－3776AB？style＝flat＆logo＝python＆logocolor＝white" alt="Python"/>
+    <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
+    <img src="https://img.shields.io/badge/－Python－3776AB?style＝for-the-badge＆logo＝python＆logocolor＝white" alt="Python"/>
     <img src="https://img.shields.io/badge/-Hono-181818?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
     <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
