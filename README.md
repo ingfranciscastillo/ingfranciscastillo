@@ -32,8 +32,8 @@
 <p>Estos frameworks me proporcionan estructuras predefinidas para el desarrollo, lo que reduce el tiempo y el esfuerzo necesario para crear una aplicación.</p>
 <div>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
-    <img src="https://img.shields.io/badge/-Astro%20JS-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
-    <img src="https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Svelte"/>
+    <img src="https://img.shields.io/badge/-Astro%20JS-ff3e00?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
+    <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=for-the-badge&logo=astro&logoColor=white" alt="Svelte"/>
     <img src="" alt=""/>
     <img src="" alt=""/>
 </div>
