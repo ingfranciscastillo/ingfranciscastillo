@@ -13,12 +13,15 @@
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-    
+</div>
 
 <h2 class="section-heading">💻 Backend</h2>
 <p>Utilizo lenguajes de programación para crear la lógica del negocio y el acceso a datos en aplicaciones. Estos lenguajes y herramientas me permiten interactuar con bases de datos, autenticar usuarios, procesar solicitudes HTTP y realizar tareas complejas en el servidor.</p>
-<div align="center">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+<div>
+    <img src="https://img.shields.io/badge/-Hono-181818?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
+    <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/-Sanity-333333?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
+    <img src="https://img.shields.io/badge/-TURSO-ffffff?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/139391156?s=280&v=4" alt="Turso"/>
+</div>
