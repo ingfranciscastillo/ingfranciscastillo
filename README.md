@@ -21,7 +21,7 @@
 <p>Utilizo lenguajes de programación para crear la lógica del negocio y el acceso a datos en aplicaciones. Estos lenguajes y herramientas me permiten interactuar con bases de datos, autenticar usuarios, procesar solicitudes HTTP y realizar tareas complejas en el servidor.</p>
 <div>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
-    <img src="https://img.shields.io/badge/-Hono-181818?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
+    <img src="https://img.shields.io/badge/-Hono-e36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
     <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -32,19 +32,19 @@
 <p>Estos frameworks me proporcionan estructuras predefinidas para el desarrollo, lo que reduce el tiempo y el esfuerzo necesario para crear una aplicación.</p>
 <div>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
-    <img src="https://img.shields.io/badge/-Astro%20JS-ff3e00?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
+    <img src="https://img.shields.io/badge/-Astro%20JS-de3b49?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
     <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=for-the-badge&logo=astro&logoColor=white" alt="Svelte"/>
     <img src="" alt=""/>
     <img src="" alt=""/>
 </div>
 
 <h2 class="section-heading">🔧 Herramientas</h2>
-<p>Estos frameworks me proporcionan estructuras predefinidas para el desarrollo, lo que reduce el tiempo y el esfuerzo necesario para crear una aplicación.</p>
+<p>Las herramientas de desarrollo son esenciales en el proceso de creación de software y aplicaciones</p>
 <div>
-    <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/-Npm-000000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-    <img src="https://img.shields.io/badge/-Pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
-    <img src="https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
-    <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    <img src="https://img.shields.io/badge/-Pnpm-b76507?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
+    <img src="https://img.shields.io/badge/-Bun-101115?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
+    <img src="https://img.shields.io/badge/-Docker-0f47b7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
