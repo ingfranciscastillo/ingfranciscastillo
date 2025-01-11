@@ -45,6 +45,22 @@
     <img src="https://img.shields.io/badge/-Npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
     <img src="https://img.shields.io/badge/-Pnpm-b76507?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
     <img src="https://img.shields.io/badge/-Bun-101115?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
+    <img src="https://img.shields.io/badge/-Netlify-15a8a6?style=for-the-badge&logo=netlify&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/-Docker-0f47b7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
+
+<div>
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ingfranciscastillo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0470cd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/ingfranciscastillo">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+<a href="https://github.com/ingfranciscastillo" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </div>
 
