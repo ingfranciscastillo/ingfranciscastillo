@@ -50,8 +50,8 @@
 </div>
 
 <div>
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<h2 class="section-heading">🌐 Contáctame.</h2>
+<p> ¡Me encantaría saber de ti! Si tienes alguna pregunta, comentario o estás interesado en colaborar en un proyecto, no dudes en ponerte en contacto.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ingfranciscastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-0470cd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
