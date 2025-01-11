@@ -52,7 +52,7 @@
 <div>
 <h2 class="section-heading">🌐 Contáctame.</h2>
 <p> ¡Me encantaría saber de ti! Si tienes alguna pregunta, comentario o estás interesado en colaborar en un proyecto, no dudes en ponerte en contacto.</p>
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ingfranciscastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-0470cd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
