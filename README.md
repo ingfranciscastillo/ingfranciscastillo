@@ -57,8 +57,8 @@
   <a href="https://www.linkedin.com/in/ingfranciscastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-0470cd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="bento.me/ingfranciscastillo">
-    <img src="https://img.shields.io/badge/Bento-FFFFFF?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"/>
+  <a href="https://linktr.ee/ingfranciscastillo">
+    <img src="https://img.shields.io/badge/LinkTree-43e660?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
 <a href="https://github.com/ingfranciscastillo" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
