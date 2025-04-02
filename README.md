@@ -8,9 +8,11 @@
 <h2 class="section-heading">🚀 Frontend</h2>
 <p>Para crear la interfaz gráfica de usuario y la experiencia del usuario en aplicaciones web y móviles. Estos lenguajes me permiten estructurar contenido, dar estilo y diseño a las páginas web, y agregar interactividad a las mismas.</p>
 <div>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui"/>
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="shadcn"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
     <img src="https://img.shields.io/badge/-React-58c4dc?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -24,6 +26,7 @@
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/>
     <img src="https://img.shields.io/badge/-Hono-e36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
     <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
+    <img src="https://img.shields.io/badge/Turso-000000?style=for-the-badge&logo=libsql&logoColor=white" alt="turso"/>
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/-Sanity-333333?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
@@ -43,10 +46,10 @@
 <p>Las herramientas de desarrollo son esenciales en el proceso de creación de software y aplicaciones</p>
 <div>
     <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/-Npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-    <img src="https://img.shields.io/badge/-Pnpm-b76507?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
     <img src="https://img.shields.io/badge/-Bun-101115?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
     <img src="https://img.shields.io/badge/-Netlify-15a8a6?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+    <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="clerk"/>
     <img src="https://img.shields.io/badge/-Docker-0f47b7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
