@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
     <img src="https://img.shields.io/badge/Turso-000000?style=for-the-badge&logo=libsql&logoColor=white" alt="turso"/>
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Drizzle-2C4A3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMTYwIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTYwIDE2MCI+PHJlY3Qgd2lkdGg9IjkuNjMxIiBoZWlnaHQ9IjQwLjg1MiIgZmlsbD0iI0M1Rjc0RiIgcng9IjQuODE2IiB0cmFuc2Zvcm09Im1hdHJpeCguODczMDMgLjQ4NzY3IC0uNDk3MjEgLjg2NzYzIDQzLjQ4IDY3LjMwNCkiLz48cmVjdCB3aWR0aD0iOS42MzEiIGhlaWdodD0iNDAuODUyIiBmaWxsPSIjQzVGNzRGIiByeD0iNC44MTYiIHRyYW5zZm9ybT0ibWF0cml4KC44NzMwMyAuNDg3NjcgLS40OTcyMSAuODY3NjMgNzYuOTQgNDYuNTM0KSIvPjxyZWN0IHdpZHRoPSI5LjYzMSIgaGVpZ2h0PSI0MC44NTIiIGZpbGw9IiNDNUY3NEYiIHJ4PSI0LjgxNiIgdHJhbnNmb3JtPSJtYXRyaXgoLjg3MzAzIC40ODc2NyAtLjQ5NzIxIC44Njc2MyAxMjguNDI0IDQ2LjUzNSkiLz48cmVjdCB3aWR0aD0iOS42MzEiIGhlaWdodD0iNDAuODUyIiBmaWxsPSIjQzVGNzRGIiByeD0iNC44MTYiIHRyYW5zZm9ybT0ibWF0cml4KC44NzMwMyAuNDg3NjcgLS40OTcyMSAuODY3NjMgOTQuOTU3IDY3LjMwNCkiLz48L3N2Zz4=&logoColor=white" alt="Drizzle"/>
+    <img src="https://img.shields.io/badge/Better_Auth-4A6CF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCA1MDAgNTAwIj48cGF0aCBmaWxsPSIjMDAwIiBkPSJNNjkgMTIxaDg2Ljk4OHYyNTlINjl6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTMzNy41NzUgMTIxSDQzMHYyNTloLTkyLjQyNXoiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSJNNDI3LjI4MiAxMjF2ODMuNDU2aC0xNzQuNTJWMTIxeiIvPjxwYXRoIGZpbGw9IiMwMDAiIGQ9Ik00MzAgMjk2LjU0NFYzODBIMjUyLjc2MnYtODMuNDU2eiIvPjxwYXRoIGZpbGw9IiMwMDAiIGQ9Ik0yNTIuNzYyIDIwNC40NTV2OTIuMDg5aC05Ni43NzR2LTkyLjA4OXoiLz48L3N2Zz4=&logoWidth=16&logoColor=white" alt="better auth"/>
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/-Sanity-333333?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
 </div>
@@ -38,8 +40,6 @@
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
     <img src="https://img.shields.io/badge/-Astro%20JS-de3b49?style=for-the-badge&logo=astro&logoColor=white" alt="Astro JS"/>
     <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=for-the-badge&logo=astro&logoColor=white" alt="Svelte"/>
-    <img src="" alt=""/>
-    <img src="" alt=""/>
 </div>
 
 <h2 class="section-heading">🔧 Herramientas</h2>
