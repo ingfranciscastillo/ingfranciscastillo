@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-Npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
     <img src="https://img.shields.io/badge/-Pnpm-b76507?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM"/>
     <img src="https://img.shields.io/badge/-Bun-101115?style=for-the-badge&logo=bun&logoColor=white" alt="BUN"/>
-    <img src="https://img.shields.io/badge/-Netlify-15a8a6?style=for-the-badge&logo=netlify&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-Netlify-15a8a6?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
     <img src="https://img.shields.io/badge/-Docker-0f47b7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
