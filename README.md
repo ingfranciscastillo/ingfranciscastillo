@@ -3,17 +3,21 @@
 **Full Stack Developer** | Building digital experiences with focus on performance and user experience
 
 <p align="center">
+
+  <a href="https://franciscode.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=devbox" alt="Website"/>
+  </a>
+
+  <a href="https://github.com/ingfranciscastillo">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/ingfranciscastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.behance.net/ingfranciscastillo">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://franciscode.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"/>
-  </a>
-  <a href="https://github.com/ingfranciscastillo">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
