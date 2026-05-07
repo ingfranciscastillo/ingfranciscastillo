@@ -9,8 +9,8 @@
   <a href="https://www.behance.net/ingfranciscastillo">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
-  <a href="https://linktr.ee/ingfranciscastillo">
-    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  <a href="https://franciscode.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"/>
   </a>
   <a href="https://github.com/ingfranciscastillo">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -23,14 +23,14 @@ Desarrollador Full Stack con passion por crear interfaces web atractivas y funci
 
 Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proyectos desafiantes que cumplen con estandares tecnicos altos mientras proporcionan experiencias de usuario excepcionales.
 
----
+## Tech Stack
 
-## GitHub Stats
+![GitHub User's stars](https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000)
 
-![GitHub User's stars](https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&color=000)
+![GitHub followers](https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ingfranciscastillo&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://streak-stats.demolab.com?user=ingfranciscastillo&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 _Thanks for visiting my profile. Let's build something amazing together._
