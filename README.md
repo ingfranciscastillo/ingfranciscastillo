@@ -34,14 +34,32 @@ Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proy
 <p align="center">
   <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000" />
   <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000" />
-  <img src="https://komarev.com/ghpvc/?username=ingfranciscastillo&style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&label=repositories&query=public_repos&url=https://api.github.com/users/ingfranciscastillo" />
-  <img src="https://img.shields.io/github/last-commit/ingfranciscastillo/eliza-terminal?style=for-the-badge&labelColor=000&color=000" />
-  <img src="https://img.shields.io/github/languages/top/ingfranciscastillo/eliza-terminal?style=for-the-badge&labelColor=000&color=000" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=000000&label=repositories&query=public_repos&url=https://api.github.com/users/ingfranciscastillo" />
+  <img src="https://img.shields.io/badge/years%20coding-4+-000000?style=for-the-badge&labelColor=000&color=000" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&theme=highcontrast&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
 _Thanks for visiting my profile. Let's build something amazing together._
+
+<!-- Years Coding -->
+
+<!-- OS -->
+<img src="https://img.shields.io/badge/os-linux-000000?style=for-the-badge" />
+
+<!-- Editor -->
+<img src="https://img.shields.io/badge/editor-vscode-000000?style=for-the-badge" />
+
+<!-- Built With -->
+<img src="https://img.shields.io/badge/built%20with-typescript-000000?style=for-the-badge" />
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/ai-integrations-000000?style=for-the-badge" />
+
+<!-- Portfolio -->
+<img src="https://img.shields.io/badge/portfolio-online-000000?style=for-the-badge" />
+
+<!-- Currently Learning -->
+<img src="https://img.shields.io/badge/learning-rust%20%26%20wasm-000000?style=for-the-badge" />
