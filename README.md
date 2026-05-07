@@ -25,9 +25,20 @@ Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proy
 
 ## Tech Stack
 
-![GitHub User's stars](https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000)
+- Languages → Typescript, Golang, Python
+- Frontend → React, Next.js, Tanstack Start, Astro
+- Backend → Node.js, Hono, tRPC, PostgreSQL, Drizzle ORM
+- Design → Figma, Photoshop
+- Tools → Git, Vercel, Docker, Zustand
 
-![GitHub followers](https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000" />
+  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000&color=000" />
+  <img src="https://komarev.com/ghpvc/?username=ingfranciscastillo&style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&label=repositories&query=public_repos&url=https://api.github.com/users/ingfranciscastillo" />
+  <img src="https://img.shields.io/github/last-commit/ingfranciscastillo/eliza-terminal?style=for-the-badge&labelColor=000&color=000" />
+  <img src="https://img.shields.io/github/languages/top/ingfranciscastillo/eliza-terminal?style=for-the-badge&labelColor=000&color=000" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&theme=dark&hide_border=true" alt="GitHub Stats" />
