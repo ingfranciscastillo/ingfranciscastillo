@@ -43,23 +43,3 @@ Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proy
 </p>
 
 _Thanks for visiting my profile. Let's build something amazing together._
-
-<!-- Years Coding -->
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/os-linux-000000?style=for-the-badge" />
-
-<!-- Editor -->
-<img src="https://img.shields.io/badge/editor-vscode-000000?style=for-the-badge" />
-
-<!-- Built With -->
-<img src="https://img.shields.io/badge/built%20with-typescript-000000?style=for-the-badge" />
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/ai-integrations-000000?style=for-the-badge" />
-
-<!-- Portfolio -->
-<img src="https://img.shields.io/badge/portfolio-online-000000?style=for-the-badge" />
-
-<!-- Currently Learning -->
-<img src="https://img.shields.io/badge/learning-rust%20%26%20wasm-000000?style=for-the-badge" />
