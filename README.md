@@ -23,9 +23,9 @@
 
 ## About Me
 
-Desarrollador Full Stack con passion por crear interfaces web atractivas y funcionales. Mi enfoque combina diseno y tecnologia para construir aplicaciones intuitivas que cumplen con las necesidades de los usuarios.
+Desarrollador Full Stack con pasión por crear interfaces web atractivas y funcionales. Mi enfoque combina diseño y tecnologia para construir aplicaciones intuitivas que cumplen con las necesidades de los usuarios.
 
-Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proyectos desafiantes que cumplen con estandares tecnicos altos mientras proporcionan experiencias de usuario excepcionales.
+Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proyectos desafiantes que cumplen con estandares técnicos altos mientras proporcionan experiencias de usuario excepcionales.
 
 ## Tech Stack
 
