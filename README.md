@@ -21,13 +21,13 @@
   </a>
 </p>
 
-## About Me
+## Sobre Mí
 
-Desarrollador Full Stack con passion por crear interfaces web atractivas y funcionales. Mi enfoque combina diseno y tecnologia para construir aplicaciones intuitivas que cumplen con las necesidades de los usuarios.
+Desarrollador Full Stack con pasión por crear interfaces web atractivas y funcionales. Mi enfoque combina diseño y tecnología para construir aplicaciones intuitivas que cumplen con las necesidades de los usuarios.
 
-Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proyectos desafiantes que cumplen con estandares tecnicos altos mientras proporcionan experiencias de usuario excepcionales.
+Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proyectos desafiantes que cumplen con estándares técnicos altos mientras proporcionan experiencias de usuario excepcionales.
 
-## Tech Stack
+## Stack Tecnológico
 
 - Languages → Typescript, Golang, Python
 - Frontend → React, Next.js, Tanstack Start, Astro
@@ -46,4 +46,4 @@ Me especializo en el ecosistema JavaScript/TypeScript moderno, construyendo proy
   <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&theme=highcontrast&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
-_Thanks for visiting my profile. Let's build something amazing together._
+_Gracias por visitar mi perfil. Construyamos algo increíble juntos._
