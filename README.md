@@ -35,16 +35,10 @@ Based in the Dominican Republic.
 - Infra → Vercel, Cloudflare, Docker, GitHub Actions
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000000&color=000000&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000000&color=000000&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=000000&label=repositories&query=public_repos&url=https://api.github.com/users/ingfranciscastillo&logo=github&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/years%20coding-4+-000000?style=for-the-badge&labelColor=000000&logo=devbox" alt="Years coding" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=flat-square&labelColor=202124&color=246b68" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=flat-square&labelColor=202124&color=246b68" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=202124&color=246b68&label=repos&query=public_repos&url=https://api.github.com/users/ingfranciscastillo" alt="Repos" />
+  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=flat&label=Stars&labelColor=202124&color=246B68&logo=github&logoColor=F6F6F2" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=flat&label=Followers&labelColor=202124&color=52534F&logo=github&logoColor=F6F6F2" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fingfranciscastillo&query=%24.public_repos&label=Repositories&style=flat&labelColor=202124&color=246B68&logo=github&logoColor=F6F6F2" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Years%20coding-4%2B-52534F?style=flat&labelColor=202124&logo=devbox&logoColor=F6F6F2" alt="Years coding" />
 </p>
 
 <p align="center">
