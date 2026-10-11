@@ -35,17 +35,8 @@ Based in the Dominican Republic.
 - Infra → Vercel, Cloudflare, Docker, GitHub Actions
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=202124&color=246B68&logo=github&logoColor=F6F6F2" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=202124&color=52534F&logo=github&logoColor=F6F6F2" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fingfranciscastillo&query=%24.public_repos&label=Repositories&style=for-the-badge&labelColor=202124&color=246B68&logo=github&logoColor=F6F6F2" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Years%20coding-4%2B-52534F?style=for-the-badge&labelColor=202124&logo=devbox&logoColor=F6F6F2" alt="Years coding" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&background=F6F6F2&ring=246B68&fire=246B68&currStreakNum=202124&sideNums=202124&currStreakLabel=246B68&sideLabels=52534F&dates=686963" alt="GitHub Streak" />
 </p>
-
-<br />
 
 <p align="center">
   <b>Have an idea worth building?</b> <a href="mailto:contacto@franciscode.dev">Say hello.</a>
