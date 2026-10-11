@@ -34,9 +34,13 @@ Based in the Dominican Republic.
 - Design → Figma, Photoshop
 - Infra → Vercel, Cloudflare, Docker, GitHub Actions
 
+<br />
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&background=F6F6F2&ring=246B68&fire=246B68&currStreakNum=202124&sideNums=202124&currStreakLabel=246B68&sideLabels=52534F&dates=686963" alt="GitHub Streak" />
 </p>
+
+<br />
 
 <p align="center">
   <b>Have an idea worth building?</b> <a href="mailto:contacto@franciscode.dev">Say hello.</a>
