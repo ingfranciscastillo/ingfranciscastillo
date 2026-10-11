@@ -16,27 +16,30 @@ Based in the Dominican Republic.
 
 </div>
 
-<br />
+## Selected Work
 
-## Selected work
-
-| Project                                               | What it does                                                                                                                 | Status      |
-| :---------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| [**Palabreo**](https://palabreo.app)                  | Wordle in Spanish, with a daily challenge, timed and hard modes, and weekly leaderboards.                                    | Shipped     |
-| [**Trace**](https://trace-olive-mu.vercel.app/)       | Paste a URL and see where an article's claims come from: what it cites, what copies it, and where each claim first appeared. | Shipped     |
-| [**WebDiff**](https://webdiff-app.netlify.app/)       | Compares two versions of a webpage and explains what changed in plain language. Can watch a URL for changes.                 | Shipped     |
-| [**Vitalgate**](https://vitalgate.vercel.app/)        | Runs Lighthouse on every pull request and blocks merges that fail Core Web Vitals.                                           | Shipped     |
-| [**Nephrite**](https://getnephrite.dev/)              | Low-glare jade theme for Chrome, Firefox, VS Code and seven terminals.                                                       | Shipped     |
-| [**DevLinks**](https://dev-links-one-phi.vercel.app/) | A developer profile in one link: GitHub activity, articles and projects, synced automatically.                               | In progress |
-| [**Vitta**](https://vitta-log.vercel.app/)            | Log your weight in five seconds and track water, steps, sleep and measurements.                                              | In progress |
-
-More small experiments live in the [Lab](https://franciscode.dev/#lab).
+- [**Palabreo**](https://palabreo.app) → Wordle in Spanish, with a daily challenge, timed and hard modes, and weekly leaderboards.
+- [**Trace**](https://trace-olive-mu.vercel.app/) → Paste a URL and see where an article's claims come from: what it cites, what copies it, and where each claim first appeared.
+- [**WebDiff**](https://webdiff-app.netlify.app/) → Compares two versions of a webpage and explains what changed in plain language.
+- [**Vitalgate**](https://vitalgate.vercel.app/) → Runs Lighthouse on every pull request and blocks merges that fail Core Web Vitals.
+- [**Nephrite**](https://getnephrite.dev/) → Low-glare jade color theme for browsers, VS Code and terminals.
+- [**DevLinks**](https://dev-links-one-phi.vercel.app/) → A developer profile in one link: GitHub activity, articles and projects, synced automatically.
+- [**Vitta**](https://vitta-log.vercel.app/) → Log your weight in five seconds and track water, steps, sleep and measurements.
 
 ## Tools I like
 
-`TypeScript` · `React` · `Next.js` · `TanStack` · `Payload` · `Drizzle` · `PostgreSQL` · `Neon` · `Better Auth` · `Tailwind` · `Motion` · `Vercel` · `Cloudflare` · `Docker` · `GitHub Actions`
+- Languages → Typescript, Golang
+- Frontend → React, Next.js, Tanstack Start, Astro, Tailwind, Motion
+- Backend → Node.js, Hono, tRPC, PostgreSQL, Neon, Drizzle ORM, Payload, Better Auth
+- Design → Figma, Photoshop
+- Infra → Vercel, Cloudflare, Docker, GitHub Actions
 
-## In numbers
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=for-the-badge&labelColor=000000&color=000000&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ingfranciscastillo?style=for-the-badge&labelColor=000000&color=000000&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=000000&label=repositories&query=public_repos&url=https://api.github.com/users/ingfranciscastillo&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/years%20coding-4+-000000?style=for-the-badge&labelColor=000000&logo=devbox" alt="Years coding" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ingfranciscastillo?style=flat-square&labelColor=202124&color=246b68" alt="Stars" />
