@@ -23,7 +23,7 @@ Based in the Dominican Republic.
 - [**WebDiff**](https://webdiff-app.netlify.app/) → Compares two versions of a webpage and explains what changed in plain language.
 - [**Vitalgate**](https://vitalgate.vercel.app/) → Runs Lighthouse on every pull request and blocks merges that fail Core Web Vitals.
 - [**Nephrite**](https://getnephrite.dev/) → Low-glare jade color theme for browsers, VS Code and terminals.
-- [**DevLinks**](https://dev-links-one-phi.vercel.app/) → A developer profile in one link: GitHub activity, articles and projects, synced automatically.
+- [**Plaqo**](https://www.plaqo.dev/) → A developer profile in one link: GitHub activity, articles and projects, synced automatically.
 - [**Vitta**](https://vitta-log.vercel.app/) → Log your weight in five seconds and track water, steps, sleep and measurements.
 
 ## Tools I like
