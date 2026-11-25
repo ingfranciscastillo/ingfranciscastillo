@@ -19,7 +19,12 @@ Based in the Dominican Republic.
 
 </div>
 
-## Selected Work
+<h3 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/selected-work-dark.svg" />
+  <img src="./assets/selected-work-light.svg" alt="Selected Work" width="840" />
+</picture>
+</h3>
 
 - [**Palabreo**](https://palabreo.app) → Wordle in Spanish, with a daily challenge, timed and hard modes, and weekly leaderboards.
 - [**Juntos**](https://juntos-murex.vercel.app) → Real-time co-op jigsaw puzzles: solve them with friends or at your own pace, with your own photos or the catalog's.
@@ -30,7 +35,27 @@ Based in the Dominican Republic.
 - [**contrib-graphs**](https://ingfranciscastillo.github.io/contrib-graphs/) → GitHub-style contribution heatmaps for React in seven designs. Install from npm or copy with the shadcn CLI.
 - [**readme-cards**](https://ingfranciscastillo.github.io/readme-cards/) → Design SVG cards for your GitHub profile and READMEs, right in the browser. No backend, no account.
 
-## Tools I like
+<h3 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/recently-shipped-dark.svg" />
+  <img src="./assets/recently-shipped-light.svg" alt="Recently shipped" width="840" />
+</picture>
+</h3>
+
+<!-- recently-shipped:start -->
+- Oct 21, 2026 → Ported Nephrite to Spotify and Thunderbird
+- Oct 19, 2026 → Added a weekly newsletter to Deportes247
+- Oct 17, 2026 → Relaunched DevLinks as Plaqo
+- Oct 13, 2026 → Released Palabreo 1.12
+- Oct 11, 2026 → Added public Core Web Vitals pages to Vitalgate
+<!-- recently-shipped:end -->
+
+<h3 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tools-i-like-dark.svg" />
+  <img src="./assets/tools-i-like-light.svg" alt="Tools I like" width="840" />
+</picture>
+</h3>
 
 - Languages → Typescript, Golang
 - Frontend → React, Next.js, Tanstack Start, Astro, Tailwind, Motion
