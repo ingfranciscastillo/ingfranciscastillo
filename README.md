@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/logo-mark-paper.png" alt="F." width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-f-dark.svg" />
+  <img src="./assets/logo-f-light.svg" alt="Francis Castillo" width="96" />
+</picture>
 
 # Francis Castillo
 
@@ -10,9 +13,9 @@ Based in the Dominican Republic.
 
 <br />
 
-<a href="https://franciscode.dev"><img src="https://img.shields.io/badge/Portfolio-246b68?style=for-the-badge&logo=safari&logoColor=f6f6f2" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ingfranciscastillo/"><img src="https://img.shields.io/badge/LinkedIn-202124?style=for-the-badge&logo=linkedin&logoColor=f6f6f2" alt="LinkedIn" /></a>
-<a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-202124?style=for-the-badge&logo=protonmail&logoColor=f6f6f2" alt="Email" /></a>
+<a href="https://franciscode.dev"><img src="https://img.shields.io/badge/Portfolio-b8633f?style=for-the-badge&logo=safari&logoColor=ece4ce" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ingfranciscastillo/"><img src="https://img.shields.io/badge/LinkedIn-212a2a?style=for-the-badge&logo=linkedin&logoColor=ece4ce" alt="LinkedIn" /></a>
+<a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-212a2a?style=for-the-badge&logo=protonmail&logoColor=ece4ce" alt="Email" /></a>
 
 </div>
 
@@ -37,7 +40,7 @@ Based in the Dominican Republic.
 <br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&background=F6F6F2&ring=246B68&fire=246B68&currStreakNum=202124&sideNums=202124&currStreakLabel=246B68&sideLabels=52534F&dates=686963" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ingfranciscastillo&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&background=ECE4CE&ring=B8633F&fire=B8633F&currStreakNum=212A2A&sideNums=212A2A&currStreakLabel=9A4F37&sideLabels=4A524C&dates=5F655D" alt="GitHub Streak" />
 </p>
 
 <br />
