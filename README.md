@@ -16,13 +16,7 @@
 
 I care about the details nobody asks for, like how a button feels when you press it, how a page loads, or what an error message says. That's probably why my side projects keep multiplying, from a Spanish Wordle with weekly leaderboards to a co-op puzzle game you can play with your own photos.
 
-Open to selected projects. The fastest way to reach me is [email](mailto:contacto@franciscode.dev).
-
-<br />
-
-<a href="https://franciscode.dev"><img src="https://img.shields.io/badge/Portfolio-b8633f?style=for-the-badge&logo=safari&logoColor=ece4ce" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ingfranciscastillo/"><img src="https://img.shields.io/badge/LinkedIn-acb9a0?style=for-the-badge&logo=linkedin&logoColor=212a2a" alt="LinkedIn" /></a>
-<a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-acb9a0?style=for-the-badge&logo=protonmail&logoColor=212a2a" alt="Email" /></a>
+Open to selected projects. You'll find more of my work at [franciscode.dev](https://franciscode.dev), and me on [LinkedIn](https://www.linkedin.com/in/ingfranciscastillo/). The fastest way to reach me is [email](mailto:contacto@franciscode.dev).
 
 </div>
 
