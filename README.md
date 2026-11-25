@@ -37,7 +37,7 @@ I enjoy turning ideas into useful products, interfaces and experiments, the kind
 
 - Based in → the Dominican Republic, building in Spanish and English
 - Focus → frontend, product design, developer tooling and creative experiments
-- Right now → building [Plaqo](https://www.plaqo.dev/) and [Vitta](https://vitta-log.vercel.app/), plus client work on [Deportes247](https://www.deportes247.com.do)
+- Right now → building [Juntos](https://juegajuntos.app) and polishing [readme-cards](https://ingfranciscastillo.github.io/readme-cards/)
 - On GitHub since → 2017
 
 <h3 align="center">
@@ -48,7 +48,7 @@ I enjoy turning ideas into useful products, interfaces and experiments, the kind
 </h3>
 
 - [**Palabreo**](https://palabreo.app) → Wordle in Spanish, with a daily challenge, timed and hard modes, and weekly leaderboards.
-- [**Juntos**](https://juntos-murex.vercel.app) → Real-time co-op jigsaw puzzles: solve them with friends or at your own pace, with your own photos or the catalog's.
+- [**Juntos**](https://juegajuntos.app) → Real-time co-op jigsaw puzzles: solve them with friends or at your own pace, with your own photos or the catalog's.
 - [**Vitalgate**](https://vitalgate.vercel.app/) → Runs Lighthouse on every pull request and blocks merges that fail Core Web Vitals.
 - [**Nephrite**](https://getnephrite.dev/) → Low-glare jade color theme for browsers, VS Code and terminals.
 - [**Plaqo**](https://www.plaqo.dev/) → A developer profile in one link: GitHub activity, articles and projects, synced automatically.
@@ -64,11 +64,11 @@ I enjoy turning ideas into useful products, interfaces and experiments, the kind
 </h3>
 
 <!-- recently-shipped:start -->
-- Oct 21, 2026 → Ported Nephrite to Spotify and Thunderbird
-- Oct 19, 2026 → Added a weekly newsletter to Deportes247
-- Oct 17, 2026 → Relaunched DevLinks as Plaqo
-- Oct 13, 2026 → Released Palabreo 1.12
-- Oct 11, 2026 → Added public Core Web Vitals pages to Vitalgate
+- Nov 25, 2026 → Redesigned franciscode.dev around a cut-paper look
+- Nov 23, 2026 → Made Juntos playable as a Discord activity and installable as an app
+- Nov 20, 2026 → Built Juntos, real-time co-op jigsaw puzzles
+- Nov 19, 2026 → Built yes-delete-it, a browser extension for “type the name to confirm” fields
+- Nov 19, 2026 → Built Noche de Patas, a 2D horror game made with Phaser 4
 <!-- recently-shipped:end -->
 
 <h3 align="center">
