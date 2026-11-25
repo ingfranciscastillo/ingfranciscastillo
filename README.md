@@ -22,12 +22,13 @@ Based in the Dominican Republic.
 ## Selected Work
 
 - [**Palabreo**](https://palabreo.app) → Wordle in Spanish, with a daily challenge, timed and hard modes, and weekly leaderboards.
-- [**Trace**](https://trace-olive-mu.vercel.app/) → Paste a URL and see where an article's claims come from: what it cites, what copies it, and where each claim first appeared.
-- [**WebDiff**](https://webdiff-app.netlify.app/) → Compares two versions of a webpage and explains what changed in plain language.
+- [**Juntos**](https://juntos-murex.vercel.app) → Real-time co-op jigsaw puzzles: solve them with friends or at your own pace, with your own photos or the catalog's.
 - [**Vitalgate**](https://vitalgate.vercel.app/) → Runs Lighthouse on every pull request and blocks merges that fail Core Web Vitals.
 - [**Nephrite**](https://getnephrite.dev/) → Low-glare jade color theme for browsers, VS Code and terminals.
 - [**Plaqo**](https://www.plaqo.dev/) → A developer profile in one link: GitHub activity, articles and projects, synced automatically.
 - [**Vitta**](https://vitta-log.vercel.app/) → Log your weight in five seconds and track water, steps, sleep and measurements.
+- [**contrib-graphs**](https://ingfranciscastillo.github.io/contrib-graphs/) → GitHub-style contribution heatmaps for React in seven designs. Install from npm or copy with the shadcn CLI.
+- [**readme-cards**](https://ingfranciscastillo.github.io/readme-cards/) → Design SVG cards for your GitHub profile and READMEs, right in the browser. No backend, no account.
 
 ## Tools I like
 
