@@ -2,14 +2,21 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-f-dark.svg" />
-  <img src="./assets/logo-f-light.svg" alt="Francis Castillo" width="96" />
+  <img src="./assets/logo-f-light.svg" alt="F logo" width="96" />
 </picture>
 
-# Francis Castillo
+<h3 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/francis-castillo-dark.svg" />
+  <img src="./assets/francis-castillo-light.svg" alt="Francis Castillo" width="840" />
+</picture>
+</h3>
 
-**Frontend developer & product builder**
-I design and build interfaces, products, and experiments, from idea to implementation.
-Based in the Dominican Republic.
+**Frontend developer & product builder in the Dominican Republic.**
+
+I build digital things worth using. Most days that means client work, like the sports news site [Deportes247](https://www.deportes247.com.do), and small tools of my own, built to see if an idea holds up once it's real.
+
+Available for selected projects.
 
 <br />
 
