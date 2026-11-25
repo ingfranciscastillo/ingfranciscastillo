@@ -14,8 +14,8 @@ Based in the Dominican Republic.
 <br />
 
 <a href="https://franciscode.dev"><img src="https://img.shields.io/badge/Portfolio-b8633f?style=for-the-badge&logo=safari&logoColor=ece4ce" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ingfranciscastillo/"><img src="https://img.shields.io/badge/LinkedIn-212a2a?style=for-the-badge&logo=linkedin&logoColor=ece4ce" alt="LinkedIn" /></a>
-<a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-212a2a?style=for-the-badge&logo=protonmail&logoColor=ece4ce" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/ingfranciscastillo/"><img src="https://img.shields.io/badge/LinkedIn-acb9a0?style=for-the-badge&logo=linkedin&logoColor=212a2a" alt="LinkedIn" /></a>
+<a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-acb9a0?style=for-the-badge&logo=protonmail&logoColor=212a2a" alt="Email" /></a>
 
 </div>
 
