@@ -12,11 +12,11 @@
 </picture>
 </h3>
 
-**Frontend developer & product builder in the Dominican Republic.**
+¡Hola! I'm Francis. I design and build for the web from the Dominican Republic: products, interfaces and a steady stream of experiments.
 
-I build digital things worth using. Most days that means client work, like the sports news site [Deportes247](https://www.deportes247.com.do), and small tools of my own, built to see if an idea holds up once it's real.
+I care about the details nobody asks for, like how a button feels when you press it, how a page loads, or what an error message says. That's probably why my side projects keep multiplying, from a Spanish Wordle with weekly leaderboards to a co-op puzzle game you can play with your own photos.
 
-Available for selected projects.
+Open to selected projects. The fastest way to reach me is [email](mailto:contacto@franciscode.dev).
 
 <br />
 
@@ -25,6 +25,20 @@ Available for selected projects.
 <a href="mailto:contacto@franciscode.dev"><img src="https://img.shields.io/badge/Email-acb9a0?style=for-the-badge&logo=protonmail&logoColor=212a2a" alt="Email" /></a>
 
 </div>
+
+<h3 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg" />
+  <img src="./assets/about-me-light.svg" alt="About me" width="840" />
+</picture>
+</h3>
+
+I enjoy turning ideas into useful products, interfaces and experiments, the kind of work that sits somewhere between engineering, product design and curiosity.
+
+- Based in → the Dominican Republic, building in Spanish and English
+- Focus → frontend, product design, developer tooling and creative experiments
+- Right now → building [Plaqo](https://www.plaqo.dev/) and [Vitta](https://vitta-log.vercel.app/), plus client work on [Deportes247](https://www.deportes247.com.do)
+- On GitHub since → 2017
 
 <h3 align="center">
 <picture>
